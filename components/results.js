@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const testimonials = [
   {
-    image: "./MLCaseStudy(2).webp",
+    image: "/MLCaseStudy(2).webp",
     author: {
       name: (
         <ul>
@@ -18,7 +18,7 @@ const testimonials = [
     },
   },
   {
-    image: "./MLCaseStudy(3).webp",
+    image: "/MLCaseStudy(3).webp",
     author: {
       name: (
         <ul>
@@ -30,7 +30,7 @@ const testimonials = [
     },
   },
   {
-    image: "./MLCaseStudy(4).webp",
+    image: "/MLCaseStudy(4).webp",
     author: {
       name: (
         <ul>
@@ -42,7 +42,7 @@ const testimonials = [
     },
   },
   {
-    image: "./MLCaseStudy(5).webp",
+    image: "/MLCaseStudy(5).webp",
     author: {
       name: (
         <ul>
