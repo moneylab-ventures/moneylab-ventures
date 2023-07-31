@@ -10,8 +10,7 @@ const testimonials = [
     author: {
       name: (
         <ul>
-          <li>Has sold 264 units so far</li>
-          <li>$10,580 Nov 8, 2022</li>
+          <li>Has sold 412 units so far</li>
           <li>New store has done $20,400</li>
         </ul>
       ),
@@ -22,9 +21,8 @@ const testimonials = [
     author: {
       name: (
         <ul>
-          <li>Has sold 264 units so far</li>
-          <li>$10,580 Nov 8, 2022</li>
-          <li>New store has done $20,400</li>
+          <li>Has sold 31 units so far</li>
+          <li>New store has done $3,309</li>
         </ul>
       ),
     },
@@ -34,9 +32,8 @@ const testimonials = [
     author: {
       name: (
         <ul>
-          <li>Has sold 264 units so far</li>
-          <li>$10,580 Nov 8, 2022</li>
-          <li>New store has done $20,400</li>
+          <li>Has sold 277 units so far</li>
+          <li>New store has done $12,049</li>
         </ul>
       ),
     },
@@ -46,9 +43,8 @@ const testimonials = [
     author: {
       name: (
         <ul>
-          <li>Has sold 264 units so far</li>
-          <li>$10,580 Nov 8, 2022</li>
-          <li>New store has done $20,400</li>
+          <li>Has sold 331 units so far</li>
+          <li>New store has done $64,086</li>
         </ul>
       ),
     },
